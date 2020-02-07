@@ -1,0 +1,52 @@
+{
+	"currencies": [
+        {
+            "id": "xem",
+            "namespace": "arus",
+            "name": "Xem",
+            "img": "https://arus-ag.github.io/test-resources/currencies/xem.png",
+            "rate": "1.966",
+            "divisibility": "6"
+        },
+		{
+			"id": "etest",
+            "namespace": "arus",
+			"name": "Etest",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "0.678",
+            "divisibility": "0"
+		},
+        {
+            "id": "aeurtest",
+            "namespace": "arus",
+            "name": "Euro",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "1.016",
+            "divisibility": "0"
+        },
+        {
+            "id": "arsup",
+            "namespace": "arus",
+            "name": "ARUS",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "0",
+            "divisibility": "0"
+        },
+        {
+            "id": "etestusd",
+            "namespace": "arus",
+            "name": "Test USD d6",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "0",
+            "divisibility": "6"
+        },
+        {
+            "id": "prosportcoin",
+            "namespace": "prosport",
+            "name": "ProSportCoin",
+            "img": "https://arus-ag.github.io/test-resources/currencies/prosport.png",
+            "rate": "2",
+            "divisibility": "6"
+        }
+	]
+}
