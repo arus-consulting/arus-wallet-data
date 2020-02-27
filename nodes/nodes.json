@@ -1,0 +1,19 @@
+{
+    "nodes": [
+        {
+            "protocol": "http",
+            "domain": "alice7.nem.ninja",
+            "port": "7890"
+        },
+        {
+            "protocol": "http",
+            "domain": "alice6.nem.ninja",
+            "port": "7890"
+        },
+        {
+            "protocol": "http",
+            "domain": "nijuichi.nem.ninja",
+            "port": "7890"
+        }
+    ]
+}
