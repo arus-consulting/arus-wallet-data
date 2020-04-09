@@ -4,7 +4,7 @@
             "id": "xem",
             "namespace": "arus",
             "name": "XEM",
-            "img": "https://arus-ag.github.io/test-resources/currencies/xem.png",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/xem.png",
             "rate": "0",
             "divisibility": "6"
         },
@@ -12,7 +12,7 @@
             "id": "arsup",
             "namespace": "arus",
             "name": "USD",
-            "img": "https://arus-ag.github.io/test-resources/currencies/usd.png",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/usd.png",
             "rate": "0",
             "divisibility": "0"
         },
@@ -20,7 +20,7 @@
             "id": "eurlevy",
             "namespace": "arus",
             "name": "Euro",
-            "img": "https://arus-ag.github.io/test-resources/currencies/euro.png",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
             "divisibility": "6"
         }
