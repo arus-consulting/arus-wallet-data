@@ -5,7 +5,7 @@
             "namespace": "arus",
             "name": "XEM",
             "img": "https://arus-ag.github.io/test-resources/currencies/xem.png",
-            "rate": "1.966",
+            "rate": "0",
             "divisibility": "6"
         },
         {
@@ -21,7 +21,7 @@
             "namespace": "arus",
             "name": "Eeuro",
             "img": "https://arus-ag.github.io/test-resources/currencies/euro.png",
-            "rate": "1",
+            "rate": "0",
             "divisibility": "6"
         }
 	]
