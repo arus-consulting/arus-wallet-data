@@ -19,7 +19,7 @@
         {
             "id": "eurlevy",
             "namespace": "arus",
-            "name": "Eeuro",
+            "name": "Euro",
             "img": "https://arus-ag.github.io/test-resources/currencies/euro.png",
             "rate": "0",
             "divisibility": "6"
