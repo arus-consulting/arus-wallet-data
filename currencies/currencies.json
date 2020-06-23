@@ -17,12 +17,12 @@
             "divisibility": "0"
         },
         {
-            "id": "eurlevy",
+            "id": "eurtestlevy",
             "namespace": "arus",
             "name": "Test EUR",
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
-            "divisibility": "6"
+            "divisibility": "2"
         }
 	]
 }
