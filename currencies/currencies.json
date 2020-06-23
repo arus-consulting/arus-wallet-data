@@ -11,7 +11,7 @@
         {
             "id": "arsup",
             "namespace": "arus",
-            "name": "USD",
+            "name": "Test USD",
             "img": "https://arus-ag.github.io/arus-resources/currencies/usd.png",
             "rate": "0",
             "divisibility": "0"
@@ -19,7 +19,7 @@
         {
             "id": "eurlevy",
             "namespace": "arus",
-            "name": "Euro",
+            "name": "Test EUR",
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
             "divisibility": "6"
