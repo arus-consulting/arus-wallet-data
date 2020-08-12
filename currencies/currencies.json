@@ -11,7 +11,7 @@
         {
             "id": "arsup",
             "namespace": "arus",
-            "name": "Test USD",
+            "name": "USD",
             "img": "https://arus-ag.github.io/arus-resources/currencies/usd.png",
             "rate": "0",
             "divisibility": "0"
@@ -19,7 +19,7 @@
         {
             "id": "aruseuro",
             "namespace": "arus",
-            "name": "Test EUR",
+            "name": "EUR",
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
             "divisibility": "2"
@@ -28,7 +28,7 @@
             "id": "gold",
             "namespace": "standard",
             "name": "Gold Standard (SG)",
-            "img": "https://arus-ag.github.io/arus-resources/currencies/sgc.png",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/sg.png",
             "rate": "52.26",
             "divisibility": "3"
         }
