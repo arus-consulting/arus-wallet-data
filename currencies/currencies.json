@@ -27,7 +27,7 @@
         {
             "id": "gold",
             "namespace": "standard",
-            "name": "Gold Standard (SG)",
+            "name": "Gold Standard (GS)",
             "img": "https://arus-ag.github.io/arus-resources/currencies/sg.png",
             "rate": "52.26",
             "divisibility": "3"
