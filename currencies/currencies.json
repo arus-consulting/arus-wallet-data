@@ -23,6 +23,14 @@
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
             "divisibility": "2"
+        },
+        {
+            "id": "gold",
+            "namespace": "standard",
+            "name": "Gold Standard",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/sgc.png",
+            "rate": "61.5",
+            "divisibility": "3"
         }
 	]
 }
