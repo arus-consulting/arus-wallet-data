@@ -6,6 +6,7 @@
             "name": "XEM",
             "img": "https://arus-ag.github.io/arus-resources/currencies/xem.png",
             "rate": "0",
+            "rateUrl": "",
             "divisibility": "6"
         },
         {
@@ -14,6 +15,7 @@
             "name": "USD",
             "img": "https://arus-ag.github.io/arus-resources/currencies/usd.png",
             "rate": "0",
+            "rateUrl": "http://165.232.72.203:3000/au",
             "divisibility": "0"
         },
         {
@@ -22,6 +24,7 @@
             "name": "EUR",
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
+            "rateUrl": "http://165.232.72.203:3000/ae",
             "divisibility": "2"
         },
         {
@@ -30,6 +33,7 @@
             "name": "Gold Standard (GS)",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
             "rate": "52.26",
+            "rateUrl": "http://165.232.72.203:3000/sg",
             "divisibility": "3"
         }
 	]
