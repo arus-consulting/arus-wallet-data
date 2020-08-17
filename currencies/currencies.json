@@ -15,7 +15,7 @@
             "name": "USD",
             "img": "https://arus-ag.github.io/arus-resources/currencies/usd.png",
             "rate": "0",
-            "rateUrl": "http://165.232.72.203:3000/au",
+            "rateUrl": "",
             "divisibility": "0"
         },
         {
@@ -24,7 +24,7 @@
             "name": "EUR",
             "img": "https://arus-ag.github.io/arus-resources/currencies/euro.png",
             "rate": "0",
-            "rateUrl": "http://165.232.72.203:3000/ae",
+            "rateUrl": "",
             "divisibility": "2"
         },
         {
