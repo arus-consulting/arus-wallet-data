@@ -2,17 +2,27 @@
     "nodes": [
         {
             "protocol": "http",
-            "domain": "alice7.nem.ninja",
+            "domain": "78.47.58.163",
             "port": "7890"
         },
         {
             "protocol": "http",
-            "domain": "alice6.nem.ninja",
+            "domain": "88.208.61.245",
             "port": "7890"
         },
         {
             "protocol": "http",
-            "domain": "nijuichi.nem.ninja",
+            "domain": "108.61.182.27",
+            "port": "7890"
+        },
+        {
+            "protocol": "http",
+            "domain": "104.238.161.61",
+            "port": "7890"
+        },
+        {
+            "protocol": "http",
+            "domain": "176.9.68.110",
             "port": "7890"
         }
     ]
