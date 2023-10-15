@@ -2,7 +2,7 @@
 	"currencies": [
         {
             "id": "xem",
-            "namespace": "arus",
+            "namespace": "nem",
             "name": "XEM",
             "img": "https://arus-ag.github.io/arus-resources/currencies/xem.png",
             "rate": "0",
