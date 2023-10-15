@@ -4,7 +4,7 @@
             "id": "xem",
             "namespace": "nem",
             "name": "XEM",
-            "img": "https://arus-ag.github.io/arus-resources/currencies/xem-transparent.png",
+            "img": "https://arus-ag.github.io/arus-resources/currencies/xem.png",
             "rate": "0",
             "rateUrl": "",
             "divisibility": "6"
