@@ -35,6 +35,15 @@
             "rate": "52.26",
             "rateUrl": "http://165.232.72.203:3000/sg",
             "divisibility": "3"
+        },
+        {
+            "id": "shone",
+            "namespace": "arustest",
+            "name": "Shone test",
+            "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
+            "rate": "0",
+            "rateUrl": "",
+            "divisibility": "3"
         }
 	]
 }
