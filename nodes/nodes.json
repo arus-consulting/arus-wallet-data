@@ -2,11 +2,6 @@
     "nodes": [
         {
             "protocol": "http",
-            "domain": "115.38.249.185",
-            "port": "7890"
-        },
-        {
-            "protocol": "http",
             "domain": "210.158.180.49",
             "port": "7890"
         },
